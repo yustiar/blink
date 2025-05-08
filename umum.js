@@ -173,6 +173,13 @@ umum_json = [
 				"ikon": "https://imgur.com/typewjP.png",
 			  	"url": "https://docs.google.com/spreadsheets/d/18aaWqO9zeyykGbJAJS42_G3zRH0oTcwG/edit?usp=sharing&ouid=116161281905621901899&rtpof=true&sd=true",
 			  	"isVPN": ""
+			},
+			{
+				"nama": "Kandani",
+				"desc": "",
+				"ikon": "https://imgur.com/S02AubU.png",
+			  	"url": "https://webapps.bps.go.id/jateng/kandani/",
+			  	"isVPN": ""
 			}
 			
 			//salin di bawah baris spasi ini 
